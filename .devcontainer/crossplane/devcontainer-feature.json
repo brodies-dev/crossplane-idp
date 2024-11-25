@@ -1,0 +1,11 @@
+{
+    "id": "crossplane",
+    "version": "1.0.0",
+    "name": "Crossplane",
+    // "options": {
+    //     "version": {
+    //         "description": "Version Override.",
+    //         "type": "string"
+    //     }
+    // }
+}
